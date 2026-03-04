@@ -29,3 +29,4 @@ LICENSE
 
 ## Backlog
 Criado no GitHub Projects
+![Sequência de Compra](design/uml/sequencia-compra.png)
